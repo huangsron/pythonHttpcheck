@@ -1,0 +1,4 @@
+[
+    {"request":{"host":"http://www.google.com","headers":{"host":"www.google.com"}},"expected":{"status_code":200}},
+    {"request":{"host":"http://www.yahoo.com","headers":{"host":"www.yahoo.com"}},"expected":{"status_code":200}}
+]

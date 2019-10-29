@@ -4,7 +4,7 @@ provider test HTTP and validate response by config
 
 ## windows
 
-python.exe ./httpcheck.py ./check.json
+python3.exe ./httpcheck.py ./check.json
 
 ## linux
 
